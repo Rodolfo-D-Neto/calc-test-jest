@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest-sonar-reporter": "^2.0.0"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
   }
 }
